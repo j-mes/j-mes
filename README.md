@@ -1,5 +1,12 @@
 ### Hi there 👋
 
-As a Senior Software Engineer at the Financial Times, I am currently part of the Origami team, where I focus on developing front-end components and collaborating with designers using Figma to build a comprehensive Design System. This system is widely adopted across the company and specialist titles owned by the FT, ensuring consistency and efficiency in design and development.
+I'm a Senior Software Engineer at the Financial Times, working in the Origami team’s Design Stream. Here’s what I’m passionate about:
 
-Previously, I was part of the Editorial Technology team, where I developed innovative services to enhance the newsroom's workflow. With a strong emphasis on accessibility, I leveraged my expertise as a Full Stack Engineer—working with JavaScript (both client-side and server-side with Node.js), React, CSS, MongoDB, Heroku, and Amazon Web Services—to create user-centric solutions that streamlined operations and improved the overall user experience.
+- 🎨 **Design Systems & Collaboration:** Partnering with designers in Figma to create robust, reusable components and evolve FT’s design system.
+- 🧑‍💻 **Frontend Craft:** Building with HTML, CSS, JavaScript, Node.js, and React—with a strong focus on accessibility for all users.
+- ☁️ **Cloud & Infra:** Deploying scalable solutions using AWS and modern infrastructure tooling.
+- ♿ **Inclusive Web:** Championing accessibility and usability in everything I build.
+- 🤝 **Teamwork:** Thriving in cross-functional teams and always eager to bridge design and engineering.
+- 📰 **Editorial Tech Roots:** Previously helped the newsroom innovate, streamlining editorial workflows for impactful journalism.
+
+Let’s create web experiences that are beautiful, accessible, and built to last.
