@@ -1,12 +1,16 @@
 ### Hi there 👋
 
-I'm a Senior Software Engineer at the Financial Times, working in the Origami team’s Design Stream. Here’s what I’m passionate about:
+I’m a Senior Software Engineer x Design Engineer on the Origami team at the Financial Times, focusing on our Design System. My current work involves:
 
-- 🎨 **Design Systems & Collaboration:** Partnering with designers in Figma to create robust, reusable components and evolve FT’s design system.
-- 🧑‍💻 **Frontend Craft:** Building with HTML, CSS, JavaScript, Node.js, and React—with a strong focus on accessibility for all users.
-- ☁️ **Cloud & Infra:** Deploying scalable solutions using AWS and modern infrastructure tooling.
-- ♿ **Inclusive Web:** Championing accessibility and usability in everything I build.
-- 🤝 **Teamwork:** Thriving in cross-functional teams and always eager to bridge design and engineering.
-- 📰 **Editorial Tech Roots:** Previously helped the newsroom innovate, streamlining editorial workflows for impactful journalism.
+- Design System Development: Collaborating with designers in Figma to create modern, composable components for flexible, consistent user experiences.
+- Frontend Engineering: Building accessible and robust user interfaces using HTML, CSS, JavaScript, Node.js, and React.
+- Cloud and Infrastructure: Delivering scalable solutions using AWS and modern infrastructure tooling.
+- Inclusive Web Practices: Ensuring accessibility and usability are core to everything I build.
+- Cross-Functional Collaboration: Bridging design and engineering to deliver cohesive, effective solutions.
 
-Let’s create web experiences that are beautiful, accessible, and built to last.
+My previous experience at the FT includes:
+- Editorial Technology: Developing editorial tools such as Spark (in-house CMS) and Lantern (in-house data analytics platform).
+- Marketing Technology: Working on a team that developed multiple efficient data streams, consolidating millions of rows from various data sources into a single, performant solution using AWS.
+- Email Platform: Supporting infrastructure that delivers over a million emails daily to subscribers.
+
+I’m passionate about creating clear, accessible, and sustainable web experiences.
