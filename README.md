@@ -11,7 +11,7 @@ My current work involves:
 
 My previous experience at the FT includes:
 - Editorial Technology: Developing editorial tools such as Spark (in-house CMS) and Lantern (in-house data analytics platform).
-- Marketing Technology: Working on a team that developed multiple efficient data streams, consolidating millions of rows from various data sources into a single, performant solution using AWS.
+- Marketing Technology: Working on a project that developed multiple efficient data streams, consolidating millions of rows from various data sources into a single, performant solution using AWS.
 - Email Platform: Supporting infrastructure that delivers over a million emails daily to subscribers.
 
 I’m passionate about creating clear, accessible, and sustainable web experiences.
