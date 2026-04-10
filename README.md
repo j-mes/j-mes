@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-I’m a Senior Software Engineer x Design Engineer on the Origami team at the Financial Times, focusing on our Design System. My current work involves:
+I’m a Senior Software Engineer x Design Engineer on the Origami team at the Financial Times, focusing on our Design System.
 
+My current work involves:
 - Design System Development: Collaborating with designers in Figma to create modern, composable components for flexible, consistent user experiences.
 - Frontend Engineering: Building accessible and robust user interfaces using HTML, CSS, JavaScript, Node.js, and React.
 - Cloud and Infrastructure: Delivering scalable solutions using AWS and modern infrastructure tooling.
